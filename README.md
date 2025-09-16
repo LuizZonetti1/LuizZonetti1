@@ -15,5 +15,3 @@ Sou programador Front End, atualmente estou aprendendo e fazendo projeto com HTM
 <a><img width="30px" height="30px" alt="css-image" src="https://github.com/user-attachments/assets/9f957cc3-cc44-4a9c-a609-06a85e7ae0a4" /></a>
 <a><img width="30px" height="30px" alt="javascrip-image" src="https://github.com/user-attachments/assets/526b2d1b-8ef6-4550-8144-3d26feac4174" /></a>
 <a><img width="30px" height="30px" alt="image" src="https://github.com/user-attachments/assets/414b5bc1-9838-473e-950d-8910a69df4e8" /></a>
-
-[![Luiz stats](https://github-readme-stats.vercel.app/api?username=LuizZonetti1)](https://github.com/anuraghazra/github-readme-stats)
