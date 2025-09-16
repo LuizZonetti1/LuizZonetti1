@@ -6,7 +6,7 @@ Sou programador Front End, atualmente estou aprendendo e fazendo projeto com HTM
 ## :telephone_receiver: Contato:
 
 <a href="https://www.linkedin.com/in/luiz-felipe-bonfim-zonetti-520108351" target="_blank"><img width="30px" height="30px" alt="linkdin-image" src="https://github.com/user-attachments/assets/c075130f-3aa4-4905-920a-d8b973c3acf3" /></a>
-<a href="emailto:luizfbzonetti@gmail.com" target="_blank"><img width="30px" height="30px" alt="gmail-image" src="https://github.com/user-attachments/assets/b3c02f2c-d848-4685-b5a2-5cdcb97fdc10" /></a>
+<a href="mailto:luizfbzonetti@gmail.com" target="_blank"><img width="30px" height="30px" alt="gmail-image" src="https://github.com/user-attachments/assets/b3c02f2c-d848-4685-b5a2-5cdcb97fdc10" /></a>
 <br>
 <br>
 
